@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 #learn-rails
 gem 'activerecord-tableless'
-gem 'compass-rails', '~> 2.0.alpha.0'
+gem 'compass-rails', '2.0.4'
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
